@@ -1,5 +1,5 @@
 # EC3-FRANK-CHANCAFE
-```
+```sql
 create database ec03;
 use ec03;
 
